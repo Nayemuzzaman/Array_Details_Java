@@ -9,3 +9,7 @@ You cannot use any open source library or Java API method which solves this prob
 One trick to solve this problem is to calculate sum of all numbers in the array and compare with expected sum, the difference would be the missing number.
 
 Solution Name : missingNumber.java
+
+2. Write a program to remove duplicates from array in Java?
+
+Solution Name : repeatDublicateNumber.java
