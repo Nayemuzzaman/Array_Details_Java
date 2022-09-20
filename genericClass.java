@@ -14,9 +14,11 @@
         this.doorNumber = doorNumber;
         this.streetName = streetName;
     }
+    
     public void print(){
         System.out.println("Live in "+this.doorNumber+" "+ this.streetName);
     }
+    
 }
 
 public class genericClass {
