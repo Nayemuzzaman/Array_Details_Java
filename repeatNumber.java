@@ -1,4 +1,5 @@
 import java.util.Arrays;
+// Write a program to remove duplicates from array in Java?
 
 public class repeatNumber {
 
