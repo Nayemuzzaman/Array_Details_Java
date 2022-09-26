@@ -14,6 +14,9 @@ Solution Name : missingNumber.java
 
 Solution Name : repeatDublicateNumber.java
 
+3. Array swap integer 
+Solution Name : arraySwapInt.java
+
 -------------
 1) What is ArrayStoreException in java? When you will get this exception?
 
